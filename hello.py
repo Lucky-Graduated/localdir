@@ -3,7 +3,7 @@ c = 23+34
 def func(a, b):
     c = a+b
     if(a+b>5):
-        return func(1, 2) +40
+        return func(1, 48) +40
     else:
         return c
 
