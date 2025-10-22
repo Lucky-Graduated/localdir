@@ -8,6 +8,7 @@ def func(a, b):
         return c
 
 print("rohit is the king of the hell")
+print("Zoro: 🤣🤣")
 
 k = func(3, 4)
 print(k)
