@@ -1,5 +1,5 @@
 print(23+34)
-
+c = 23+34
 def func(a, b):
     c = a+b
     if(a+b>5):
@@ -8,7 +8,7 @@ def func(a, b):
         return c
 
 print("rohit is the king of the hell")
-print("Zoro: 🤣🤣")
+print("Zoro: 🤣🤣", c)
 
 k = func(3, 4)
 print(k)
